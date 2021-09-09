@@ -37,4 +37,5 @@ export const comments: CommentType[] = [
     replies: []
   }
 ]
+export let result = comments.map
 
